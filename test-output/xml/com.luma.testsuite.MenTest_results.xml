@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="luma test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="12.042">
+  <properties />
+  
+  
+            <testcase name="userShouldAddProductSuccessFullyToShoppingCart" time="12.042" classname="com.luma.testsuite.MenTest" />
+      
+</testsuite>
